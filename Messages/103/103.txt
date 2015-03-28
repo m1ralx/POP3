@@ -1,0 +1,32 @@
+From: DripStat support@chrononsystems.com
+To:   mironov.alexey.fiit.urfu@gmail.com
+Date:  Mon, 21 Apr 2014 16:54:53 +0000
+Subject: Announcing Heap Usage Alerts - No more OutOfMemory exceptions
+Message:
+View this email in your browser (http://us1.campaign-archive1.com/?u=7248eae3db35b0496a7c0e839&id=298606f96b&e=4f78b3be3f)
+
+
+**   No more OutOfMemory exceptions
+------------------------------------------------------------
+
+How many times have you run into the dreaded OutOfMemoryException. It sucks right!
+
+Today we are introducing High Heap Usage Alerts (http://blog.dripstat.com/post/83422775833/heap-usage-alerts-no-more-outofmemory-exceptions) to help you prevent OutOfMemory exceptions for ever!
+
+In the Alerts tab, now you can set DripStat to warn you when the Used Heap is close to reaching the Max Heap Size. This in combination with the High GC alert (http://blog.dripstat.com/post/83042507013/high-gc-alerts-now-available) introduced last week means you never have to worry about your JVM going down without notice.
+
+Read full details here:
+blog.dripstat.com/post/83422775833/heap-usage-alerts-no-more-outofmemory-exceptions
+
+Follow us to always stay up to date:
+twitter.com/dripstat
+
+Keep Dripping,
+Team DripStat
+
+============================================================
+
+This email was sent to mironov.alexey.fiit.urfu@gmail.com
+why did I get this? (http://chrononsystems.us1.list-manage2.com/about?u=7248eae3db35b0496a7c0e839&id=53a4e4c294&e=4f78b3be3f&c=298606f96b)     unsubscribe from this list (http://chrononsystems.us1.list-manage.com/unsubscribe?u=7248eae3db35b0496a7c0e839&id=53a4e4c294&e=4f78b3be3f&c=298606f96b)     update subscription preferences (http://chrononsystems.us1.list-manage.com/profile?u=7248eae3db35b0496a7c0e839&id=53a4e4c294&e=4f78b3be3f)
+Chronon Systems LLC · 1900 South Norfolk St · Suite 350 · San Mateo, CA 94403 · USA
+

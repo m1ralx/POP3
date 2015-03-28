@@ -1,0 +1,8 @@
+From: Алексей Миронов mironov.alexey.fiit.urfu@gmail.com
+To: pop3-test@rambler.ru Not implemented
+Date:  Thu, 23 Oct 2014 11:47:56 +0600
+Subject: Тема письма 2
+Message:
+Текст письма 2
+
+

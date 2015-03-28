@@ -1,0 +1,5 @@
+You can now push to this repository.
+
+---
+View it on GitHub:
+https://github.com/Iwan9544/FoolsGame

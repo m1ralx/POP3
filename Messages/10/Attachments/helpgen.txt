@@ -1,0 +1,18 @@
+@echo off
+SETLOCAL ENABLEDELAYEDEXPANSION
+
+if "%1"=="/?" (echo There should be support for the program, but my English is very bad. 
+echo In addition, I am too lazy to write it in Russian, so I just typed the text
+echo in Google translator, and copied it into the program :-( ) & goto :eof
+
+
+for /F "skip=1 tokens=1" %%i in ('help') do (
+	echo %%i|findstr /R "^[A-Z]*$">NUL
+	if !errorlevel!==0 (
+		echo %%i|findstr /R /V "^SC$">nul
+		if !errorlevel!==0 (
+			help %%i>%%i.txt
+		)
+	)
+)
+ENDLOCAL

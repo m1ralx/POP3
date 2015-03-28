@@ -1,0 +1,7 @@
+From: okulovsky  notifications@github.com
+To: Iwan9544/FoolsGame  FoolsGame@noreply.github.com
+Date:  Wed, 26 Feb 2014 01:39:39 -0800
+Subject: _Структуры
+Message:
+No text in the message
+

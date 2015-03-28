@@ -1,0 +1,3 @@
+user pop3-test@rambler.ru
+pswd pop3test
+host pop.rambler.ru

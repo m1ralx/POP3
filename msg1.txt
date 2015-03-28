@@ -1,0 +1,44 @@
++OK 2265 bytes will follow
+Return-Path: <mironov.alexey.fiit.urfu@gmail.com>
+Received: from mx2.mail.rambler.ru ([10.8.18.2] verified)
+  by mail454.rambler.ru (RamblerMail 6.1 SMTP 6.1a7)
+  with ESMTP id 48925529 for pop3-test@rambler.ru; Sat, 25 Oct 2014 10:05:32 +0400
+Received: from mail-oi0-f48.google.com (mail-oi0-f48.google.com [209.85.218.48])
+        by mx2.mail.rambler.ru (Postfix) with ESMTP id 1EE718F37
+        for <pop3-test@rambler.ru>; Sat, 25 Oct 2014 10:05:32 +0400 (MSK)
+Received: by mail-oi0-f48.google.com with SMTP id g201so1274088oib.21
+        for <pop3-test@rambler.ru>; Fri, 24 Oct 2014 23:05:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=OVGawU/EAf9ujNBk3whr/Hvnujis6/0c1QOJMUQTCEU=;
+        b=li+VBcQWM0aWpWWFX+VGK+lfGPwUW9Pw/eH7rz64LeJ3W2q9XAXl3Kwiy3AIkZ8D8r
+         ljvMsVUPzRzccHEr9HuAxXwEe1WuYsqWgVJSlNBnSMk591SZWmIpCokm4IS9qBMlmUq9
+         AcV+KRnqh1qAF0tatAxqueU85/0lOG38RvtTSObNK5wujtQiSLb+MMNpvr+cWgVRwtHZ
+         zV9zx00MT3ynITwbFrYdah+JpVEaO6FPcGGA4najin1f53yIjLJZZF2LdS3X0KOPIHy0
+         tGT17NkZuMg6/TFFXPnGetWCirRj7NbQXKcXxCWtN+j53x3L2FbuIIqCuSsNzYzycE61
+         PoKw==
+MIME-Version: 1.0
+X-Received: by 10.202.207.3 with SMTP id f3mr7187750oig.46.1414217130585; Fri,
+ 24 Oct 2014 23:05:30 -0700 (PDT)
+Received: by 10.76.113.47 with HTTP; Fri, 24 Oct 2014 23:05:30 -0700 (PDT)
+Date: Sat, 25 Oct 2014 12:05:30 +0600
+Message-ID: <CA+r_t-UE8qfkhf07oHq95Dxke1HcixJJko5rdppeqSeAoVXvCQ@mail.gmail.com>
+Subject: =?UTF-8?B?0KLQtdC80LAg0LrQsNC6INGC0LXQvNCw?=
+From: =?UTF-8?B?0JDQu9C10LrRgdC10Lkg0JzQuNGA0L7QvdC+0LI=?= <mironov.alexey.fiit.urfu@gmail.com>
+To: pop3-test@rambler.ru
+Content-Type: multipart/alternative; boundary=001a113dd78ab432b305063915f1
+
+--001a113dd78ab432b305063915f1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+0JzQvdC+0LPQvtGB0YLRgNC+0YfQvdC+0LUNCtCf0LjRgdGM0LzQvg0KTEFMQUxBDQo=
+--001a113dd78ab432b305063915f1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+0JzQvdC+0LPQvtGB0YLRgNC+0YfQvdC+0LU8ZGl2PtCf0LjRgdGM0LzQ
+vjwvZGl2PjxkaXY+TEFMQUxBPC9kaXY+PC9kaXY+DQo=
+--001a113dd78ab432b305063915f1--
+.

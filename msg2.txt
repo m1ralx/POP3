@@ -1,0 +1,70 @@
++OK Welcome.
++OK message follows
+Delivered-To: mironov.alexey.fiit.urfu@gmail.com
+Received: by 10.76.169.74 with SMTP id ac10csp18221oac;
+        Wed, 26 Feb 2014 01:39:39 -0800 (PST)
+X-Received: by 10.140.80.53 with SMTP id b50mr5924697qgd.43.1393407579429;
+        Wed, 26 Feb 2014 01:39:39 -0800 (PST)
+Return-Path: <noreply@github.com>
+Received: from github-smtp2b-ext-cp1-prd.iad.github.net (github-smtp2-ext8.iad.github.net. [192.30.252.199])
+        by mx.google.com with ESMTPS id b79si154480qge.179.2014.02.26.01.39.39
+        for <mironov.alexey.fiit.urfu@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 26 Feb 2014 01:39:39 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@github.com designates 192.30.252.199 as permitted sender) client-ip=192.30.252.199;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@github.com designates 192.30.252.199 as permitted sender) smtp.mail=noreply@github.com
+Date: Wed, 26 Feb 2014 01:39:39 -0800
+From: okulovsky <notifications@github.com>
+Reply-To: Iwan9544/FoolsGame <reply+i-28319906-d1b07ade9626ba7195d2937ab97f4df3b02b36f4-6783167@reply.github.com>
+To: Iwan9544/FoolsGame <FoolsGame@noreply.github.com>
+Message-ID: <Iwan9544/FoolsGame/issues/1@github.com>
+Subject: =?UTF-8?Q?[FoolsGame]?=
+ =?UTF-8?Q?_=D0=A1=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D1=8B?=
+ =?UTF-8?Q?_=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85_=28#1=29?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_530db65b146a3_33103f8b7305d2a88543";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Precedence: list
+X-GitHub-Recipient: mironov-alexey
+List-ID: Iwan9544/FoolsGame <FoolsGame.Iwan9544.github.com>
+List-Archive: https://github.com/Iwan9544/FoolsGame
+List-Post: <mailto:reply+i-28319906-d1b07ade9626ba7195d2937ab97f4df3b02b36f4-6783167@reply.github.com>
+List-Unsubscribe: <mailto:unsub+i-28319906-d1b07ade9626ba7195d2937ab97f4df3b02b36f4-6783167@reply.github.com>,
+ <https://github.com/notifications/unsubscribe/6783167__eyJzY29wZSI6Ik5ld3NpZXM6TXV0ZSIsImV4cGlyZXMiOjE3MDg5NDAzNzksImRhdGEiOnsiaWQiOjI2NDgwNjMwfX0=--4fcd68253e800f05cb4bcf78fe8710ecb85f1a98>
+X-Auto-Response-Suppress: All
+X-GitHub-Recipient-Address: mironov.alexey.fiit.urfu@gmail.com
+
+
+----==_mimepart_530db65b146a3_33103f8b7305d2a88543
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+0KDQsNC30YDQsNCx0L7RgtCw0YLRjCDQstGB0LUg0LrQu9Cw0YHRgdGLLCDQ
+stGC0YcgQXJiaXRlciDRgSDQvNC10YLQvtC00LDQvNC4LdGB0YLQsNCx0LDQ
+vNC4CgotLS0KUmVwbHkgdG8gdGhpcyBlbWFpbCBkaXJlY3RseSBvciB2aWV3
+IGl0IG9uIEdpdEh1YjoKaHR0cHM6Ly9naXRodWIuY29tL0l3YW45NTQ0L0Zv
+b2xzR2FtZS9pc3N1ZXMvMQ==
+
+----==_mimepart_530db65b146a3_33103f8b7305d2a88543
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>=D0=A0=D0=B0=D0=B7=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D1=82=D1=8C =D0=
+=B2=D1=81=D0=B5 =D0=BA=D0=BB=D0=B0=D1=81=D1=81=D1=8B, =D0=B2=D1=82=D1=87 =
+Arbiter =D1=81 =D0=BC=D0=B5=D1=82=D0=BE=D0=B4=D0=B0=D0=BC=D0=B8-=D1=81=D1=
+=82=D0=B0=D0=B1=D0=B0=D0=BC=D0=B8</p>
+
+<p style=3D"font-size:small;-webkit-text-size-adjust:none;color:#666;">&m=
+dash;<br>Reply to this email directly or <a href=3D'https://github.com/Iw=
+an9544/FoolsGame/issues/1'>view it on GitHub</a>.<img src=3D'https://gith=
+ub.com/notifications/beacon/6783167__eyJzY29wZSI6Ik5ld3NpZXM6QmVhY29uIiwi=
+ZXhwaXJlcyI6MTcwODk0MDM3OSwiZGF0YSI6eyJpZCI6MjY0ODA2MzB9fQ=3D=3D--f16ae0e=
+408b339d1f396347ea7602f2e7f6bd516.gif' height=3D'1' width=3D'1'></p>=
+
+----==_mimepart_530db65b146a3_33103f8b7305d2a88543--
+.

@@ -1,0 +1,19 @@
+
+
+Hey there, we're just writing to let you know that you've been automatically subscribed to a repository on GitHub.
+
+    Iwan9544/FoolsGame created by Iwan9544
+    Creative technology
+    https://github.com/Iwan9544/FoolsGame
+
+You'll receive notifications for all issues, pull requests, and comments that happen inside the repository. If you would like to stop watching this repository, you can manage your settings here:
+
+    https://github.com/Iwan9544/FoolsGame/subscription
+
+You can unwatch this repository immediately by clicking here:
+
+    https://github.com/Iwan9544/FoolsGame/unsubscribe_via_email/6783167__eyJzY29wZSI6Ik5ld3NpZXM6VW5zdWJzY3JpYmUiLCJleHBpcmVzIjoxNzA4OTM2MjMzLCJkYXRhIjp7ImlkIjoxNzIwMzUxMH19--f2ef77b2a8d55872b56138193c633bc2ab97746c
+
+You were automatically subscribed because you've been given push access to the repository.
+
+Thanks!

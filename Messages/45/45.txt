@@ -1,0 +1,59 @@
+Исправил проверку на правильность переданных аргументов в РЛЕ, Хаффмане и
+Бойер-Муре.
+Добавил декодирование в Хэмминге.
+
+
+20 декабря 2013 г., 18:53 пользователь Вадим Шошин <vshoshin@gmail.com>написал:
+
+> Добрый вечер!
+>
+> 1)Разберись со входными параметрами, тогда добью баллы по задачам.
+> Например такой случай:
+>
+> C:\Scripts\FIIT\???????_???????\RLE+Huffman\Huffman>cscript huffman.js
+> encode
+>
+> C:\Scripts\FIIT\???????_???????\RLE+Huffman\Huffman\huffman.js(198, 2)
+> Microsoft
+>  JScript runtime error: Subscript out of range
+>
+>
+>
+> C:\Scripts\FIIT\???????_???????\SearchSubstring>cscript Boyer-Moor.js
+> input.txt
+>
+> C:\Scripts\FIIT\???????_???????\SearchSubstring\Boyer-Moor.js(9, 1)
+> Microsoft JS
+> cript runtime error: Subscript out of range
+>
+>
+>
+> Исправить всё, тогда добью баллы
+>
+> В.
+>
+>
+>
+>
+>
+> 14 декабря 2013 г., 18:48 пользователь Алексей Миронов <
+> mironov.alexey.fiit.urfu@gmail.com> написал:
+>
+>> В прошлом сообщении битая ссылка(
+>>
+>> --
+>> Вы получили это сообщение, поскольку подписаны на группу Скрипты.
+>>
+>> Чтобы отказаться от подписки на эту группу и перестать получать из нее
+>> сообщения, отправьте электронное письмо на адрес
+>> crhbgns+unsubscribe@googlegroups.com.
+>> Настройки подписки и доставки писем:
+>> https://groups.google.com/groups/opt_out.
+>>
+>
+>
+>
+> --
+> С уважением,
+> Шошин Вадим
+>

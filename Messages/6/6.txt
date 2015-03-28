@@ -1,0 +1,10 @@
+From: Алексей Миронов mironov.alexey.fiit.urfu@gmail.com
+To:  pop3-test@rambler.ru Not implemented
+Date:  Sat, 25 Oct 2014 12:05:30 +0600
+Subject: Тема как тема
+Message:
+Многострочное
+Письмо
+LALALA
+
+

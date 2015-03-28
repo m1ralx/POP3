@@ -1,0 +1,48 @@
+25 октября 2013 г., 1:57 пользователь Вадим Шошин <vshoshin@gmail.com>написал:
+
+> Доброй ночи!
+>
+> 1) Такая программа:
+>     put read
+>     228
+>     write 228
+>     вместо ожидаемого вывода read выводит 1000. исправить
+> 2) Поработать над стилистикой:
+>
+> if (WSH.Arguments.count() == 0)
+> {
+>   WScript.StdOut.Writeline('In case of start of the machine enter file
+> name in which there is a code of your program. Example of start of the
+> machine: cscript translator.js nod.txt');
+>  WScript.Quit();
+> }
+>
+> выглядит куда логичней, чем безумно растянутый if else. Зачем писать  WScript.Quit();
+> в else тоже не понятно, программа и так завершится.
+>
+>
+> 7 баллов. За исправленную версию баллов будет больше.
+>
+> В.
+>
+>
+> 19 октября 2013 г., 15:16 пользователь Алексей Миронов <
+> mironov.alexey.fiit.urfu@gmail.com> написал:
+>
+>>
+>>  --
+>> Вы получили это сообщение, поскольку подписаны на группу Скрипты.
+>>
+>> Чтобы отказаться от подписки на эту группу и перестать получать из нее
+>> сообщения, отправьте электронное письмо на адрес
+>> crhbgns+unsubscribe@googlegroups.com.
+>> Настройки подписки и доставки писем:
+>> https://groups.google.com/groups/opt_out.
+>>
+>
+>
+>
+> --
+> С уважением,
+> Шошин Вадим
+>

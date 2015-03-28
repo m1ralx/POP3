@@ -1,0 +1,58 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <style type="text/css">
+    .notext {
+        text-indent: -9999px;
+    }
+    </style>
+
+    </head>
+<body>
+
+<div>
+<h1><a title="Uniteller" href="http://uniteller.ru" target="_blank"><img src="http://www.uniteller.ru/img/site/logo.png" title="Uniteller" alt="Uniteller"></a></h1>
+
+    <p>Уважаемый Клиент!</p>
+    Ваш платеж банковской картой в пользу предприятия e-коммерции ООО Арена-Маркет совершен успешно.<br />Пожалуйста, сохраните указанную ниже информацию о платеже.
+<br><br>
+<table>
+<tr>
+    <td>Номер платежа:</td>
+    <td>1287693</td>
+</tr>
+<tr>
+    <td>Сумма операции:</td>
+    <td>990.00 RUB</td>
+</tr>
+<tr>
+    <td>Покупатель:</td>
+    <td>
+                    ALEXEY MIRONOV
+            </td>
+</tr>
+<tr>
+    <td>Номер карты:</td>
+    <td>427616******3137</td>
+</tr>
+<tr>
+    <td>Код авторизации:</td>
+    <td>565470</td>
+</tr>
+<tr>
+    <td>Дата операции:</td>
+    <td>2013-11-03 19:08:22</td>
+</tr>
+</table>
+
+<p>В случае возникновения вопросов Вы можете обратиться в Службу поддержки компании Uniteller по телефону +7 495 987 19 60 или электронной почте <a href="mailto:support@uniteller.ru">support@uniteller.ru</a><br />ВНИМАНИЕ!<br />По всем вопросам, связанным с выполнением оплаченного Вами заказа, пожалуйста, обращайтесь в предприятие e-коммерции ООО Арена-Маркет по адресу: support@arena-market.ru.</p>
+Спасибо, что воспользовались нашими услугами!<br /><br />С уважением,<br />Команда Uniteller
+<hr>
+Данное сообщение (включая вложения) является конфиденциальным и предназначено исключительно для адресата. Если вы не являетесь адресатом данного сообщения, вы не имеете права читать, копировать, использовать или сохранять его каким-либо образом, а также позволять кому-либо делать это. Если вы получили это сообщение по ошибке, пожалуйста, свяжитесь с компанией Uniteller по адресу: <a href="mailto:support@uniteller.ru">support@uniteller.ru</a>
+<hr>
+</div>
+</body>
+</html>
